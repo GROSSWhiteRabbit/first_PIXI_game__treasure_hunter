@@ -1,0 +1,29 @@
+{
+  "name": "pixiyoutubetutorial",
+  "version": "1.0.0",
+  "description": "project for tests",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Kononenko",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.12",
+    "autoprefixer": "^10.2.5",
+    "babel-loader": "^8.2.2",
+    "eslint": "^7.22.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-postcss": "^9.0.0",
+    "postcss": "^8.2.8",
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0",
+    "webpack-stream": "^6.1.2"
+  },
+  "dependencies": {
+    "pixi.js": "^6.0.0"
+  }
+}

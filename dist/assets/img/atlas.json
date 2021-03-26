@@ -1,0 +1,52 @@
+{"frames": {
+
+"cat.webp":
+{
+	"frame": {"x":0,"y":0,"w":264,"h":299},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":299},
+	"sourceSize": {"w":264,"h":299}
+},
+"kisspng.png":
+{
+	"frame": {"x":600,"y":597,"w":850,"h":1400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":1400},
+	"sourceSize": {"w":850,"h":1400}
+},
+"neptunia.png":
+{
+	"frame": {"x":924,"y":0,"w":471,"h":597},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":471,"h":597},
+	"sourceSize": {"w":471,"h":597}
+},
+"snake.png":
+{
+	"frame": {"x":264,"y":0,"w":660,"h":413},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":660,"h":413},
+	"sourceSize": {"w":660,"h":413}
+},
+"tilesets.webp":
+{
+	"frame": {"x":0,"y":597,"w":600,"h":620},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":620},
+	"sourceSize": {"w":600,"h":620}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1450,"h":1997},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:21e25bcc046af7372a697b4814e2a113:026088cd3a101f5746a24bf50cbb0b81:cbce6b53f0f49e0bf15173c25c41f876$"
+}
+}
