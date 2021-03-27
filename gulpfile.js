@@ -8,8 +8,8 @@ const webpack = require("webpack-stream");
 const cleanCSS = require("gulp-clean-css");
 const postcss = require("gulp-postcss");
 
-const dist = "C:/my/programs/openserver/domains/test"; // Ссылка на вашу папку на локальном сервере
-// const dist = "./dist";
+// const dist = "C:/my/programs/openserver/domains/test"; // Ссылка на вашу папку на локальном сервере
+const dist = "./dist";
 
 gulp.task("copy-html", () => {
     return gulp.src("./src/index.html")
